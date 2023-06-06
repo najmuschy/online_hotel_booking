@@ -1,0 +1,20 @@
+DEVELOPER ACCOUNT:
+Email:hotelbooking1@gmail.com
+Password:hotelbooking12
+
+Sandbox----Personal :
+sandbox_hotel@personal.com
+Password:hotelbooking12
+
+
+Sandbox----Business :
+sandbox_hotel@business.com
+Password:hotelbooking12
+
+
+API Credentials :
+
+App name : hotel_business
+sandbox_hotel@business.com
+Client ID: Ae9gKjaNXuzE73EYuAVsa4r9eDALwCvrNlleYS9vK6i8cTYTW7NwpxADqRVylrYaeJSxUxOvTafqSlGH
+Secret Client ID : EI4BrYwE6l5wcYs4Zy8sBsbj4UAWXEzPJrhs7EIbJrvbz2KwZmItW-y1uJ61V9IcB4B9rCUqE6k5VQJr
